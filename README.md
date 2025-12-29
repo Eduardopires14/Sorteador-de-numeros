@@ -1,4 +1,5 @@
 🎲 Sorteador de Números
+
 Bem-vindo ao Sorteador de Números!
 
 Este projeto foi desenvolvido como prática de programação, com o objetivo de treinar lógica, manipulação de variáveis e interação com o usuário, além de explorar funções de geração de números aleatórios.
