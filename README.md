@@ -1,21 +1,21 @@
-🎲 Sorteador de Números
+# 🎲 Sorteador de Números
 
 Bem-vindo ao Sorteador de Números!
 
 Este projeto foi desenvolvido como prática de programação, com o objetivo de treinar lógica, manipulação de variáveis e interação com o usuário, além de explorar funções de geração de números aleatórios.
 
-📖 Sobre o projeto
-O Sorteador de Números permite ao usuário gerar números aleatórios dentro de um intervalo definido.
+# 📖 Sobre o projeto
+- O Sorteador de Números permite ao usuário gerar números aleatórios dentro de um intervalo definido.
 
-O usuário informa os valores mínimo e máximo.
+- O usuário informa os valores mínimo e máximo.
 
-O programa sorteia um número dentro desse intervalo.
+- O programa sorteia um número dentro desse intervalo.
 
-É possível realizar novos sorteios quantas vezes desejar.
+- É possível realizar novos sorteios quantas vezes desejar.
 
-O projeto pode ser utilizado em jogos, desafios ou qualquer situação que precise o sorteio de números aleatórios. 🎉
+- O projeto pode ser utilizado em jogos, desafios ou qualquer situação que precise o sorteio de números aleatórios. 🎉
 
-🚀 Tecnologias utilizadas
+# 🚀 Tecnologias utilizadas
 <table>
 <tr>
 <td align="center">JavaScript<br>
